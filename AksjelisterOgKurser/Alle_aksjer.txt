@@ -1,0 +1,87 @@
+|ABG Sundal Collier H|ASC|87|15|
+|AF Gruppen|AFG|15|5|
+√|Aker|AKER|13|8|20130522
+√|Aker Solutions|AKSO|13|10|20130522
+|Algeta|ALGETA|8|5|
+|Atea|ATEA|9|3|
+|Austevoll Seafood|AUSS|13|7|
+|Biotec Pharmacon|BIOTEC|9|4|
+|Birdstep Technology|BIRD|13|7|
+|Blom|BLO|13|7|
+√|Bonheur|BON|13|7|20130522
+|BW Offshore Limited|BWO|7|3|
+|BWG Homes|BWG|13|5|
+|Cermaq|CEQ|8|5|
+|Clavis Pharma|CLAVIS|8|5|
+|Copeinca|COP|8|5|
+√|Deep Sea Supply|DESSC|8|5|20130522
+|Det norske oljeselskap|DETNOR|13|8|
+|DiaGenic|DIAG|5|3|
+|DNO International|DNO|13|8|
+|DOF|DOF|8|32|
+|Eitzen Chemical|ECHEM|8|5|
+√|Eitzen Maritime Serv|EMS|13|8|20130522
+|Ekornes|EKO|13|8|
+|Electromagnetic Geos|EMGS|13|8|
+|Eltek|ELT|13|8|
+|Fred. Olsen Energy|FOE|13|8|
+|Frontline|FRO|21|13|
+|Funcom|FUNCOM|21|13|
+|Ganger Rolf|GRO|13|8|
+|Golden Ocean Group|GOGL|13|8|
+|Goodtech|GOD|21|13|
+√|Grieg Seafood|GSF|13|8|20130522
+|Hafslund ser. A|HNA|21|13|
+|Hafslund ser. B|HNB|21|13|
+|Hexagon Composites|HEX|21|13|
+|Hurtigruten ASA|HRG|13|8|
+|Int. Gold Exploration|IGE|13|8|
+|InterOil Exploration|IOX|21|13|
+|Intex Resources|ITX|21|13|
+|Jinhui Shipping|JIN|8|5|
+|Kongsberg Automotive|KOA|26|12|
+|Kongsberg Gruppen|KOG|13|8|
+|Lerøy Seafood Group|LSG|13|8|
+|Marine Harvest|MHG|13|8|
+|Nordic Semiconductor|NOD|13|8|
+|Norse Energy Corp|NEC|21|13|
+|Norsk Hydro|NHY|5|25|
+|Norske Skogindustrier|NSG|13|8|
+|Northern Offshore|NOF|13|8|
+|Northland Resources|NAUR|13|8|
+|Norwegian Air Shuttle|NAS|13|8|
+|Norwegian Energy Com|NOR|13|8|
+|Norwegian Property|NPRO|13|8|
+|Odfjell ser|ODF|13|8|
+|Opera Software|OPERA|13|8|
+|Orkla|ORK|13|8|
+|Petroleum Geo-Services|PGS|13|8|
+|Petrolia Drilling|PDR|21|13|
+|Photocure|PHO|21|13|
+|Prosafe|PRS|13|8|
+|PSI Group|PSI|13|8|
+|Q-Free|QFR|13|8|
+|Questerre Energy Cor|QEC|21|13|
+|Renewable Energy Cor|REC|13|8|
+|Reservoir Exploratio|RXT|13|8|
+|Rocksource|RGT|13|8|
+|Royal Caribbean Crui|RCL|13|8|
+|SalMar|SALM|13|8|
+|Scana Industrier|SCI|13|8|
+|Schibsted|SCH|21|13|
+|SeaBird Exploration|SBX|13|8|
+|Seadrill|SDRL|13|8|
+|Sevan Marine|SEVAN|13|8|
+|Siem Offshore|SIOFF|21|13|
+|Songa Offshore|SONG|13|8|
+|Statoil|STL|13|8|
+|Stolt-Nielsen|SNI|13|8|
+|Storebrand|STB|13|8|
+|Telenor|TEL|27|32|
+|TGS-NOPEC Geophysica|TGS|13|8|
+|Tomra Systems|TOM|34|28|
+|TTS Group|TTS|21|32|
+|Veidekke|VEI|100|32|
+|Wilh. Wilhelmsen ser|WWI|28|21|
+|Wilh. Wilhelmsen ser|WWIB|28|21|
+|Yara International|YAR|28|21|

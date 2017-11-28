@@ -1,0 +1,80 @@
+C:\Users\Me\Desktop\TekniskAnalyse\TekniskAnalyse\bin\Debug\TekniskAnalyse.exe
+C:\Users\Me\Desktop\TekniskAnalyse\TekniskAnalyse\bin\Debug\TekniskAnalyse.pdb
+C:\Users\Me\Desktop\TekniskAnalyse\TekniskAnalyse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Me\Desktop\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.Form1.resources
+C:\Users\Me\Desktop\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.Properties.Resources.resources
+C:\Users\Me\Desktop\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.csproj.GenerateResource.Cache
+C:\Users\Me\Desktop\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.exe
+C:\Users\Me\Desktop\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.pdb
+C:\Users\Me\Desktop\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.Form2.resources
+C:\Mappe med Aksjeprogrammer\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.exe
+C:\Mappe med Aksjeprogrammer\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.pdb
+C:\Documents and Settings\ojo\Skrivebord\TekniskAnalyse\TekniskAnalyse\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ojo\Skrivebord\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.Form1.resources
+C:\Documents and Settings\ojo\Skrivebord\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.Properties.Resources.resources
+C:\Documents and Settings\ojo\Skrivebord\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.csproj.GenerateResource.Cache
+C:\Documents and Settings\ojo\Skrivebord\TekniskAnalyse\TekniskAnalyse\bin\Debug\TekniskAnalyse.exe
+C:\Documents and Settings\ojo\Skrivebord\TekniskAnalyse\TekniskAnalyse\bin\Debug\TekniskAnalyse.pdb
+C:\Documents and Settings\ojo\Skrivebord\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.exe
+C:\Documents and Settings\ojo\Skrivebord\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.pdb
+C:\Documents and Settings\ojo\Skrivebord\Kopi (2) av TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.exe
+C:\Documents and Settings\ojo\Skrivebord\Kopi (2) av TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.pdb
+C:\Documents and Settings\ojo\Skrivebord\Kopi (2) av TekniskAnalyse\TekniskAnalyse\bin\Debug\TekniskAnalyse.exe
+C:\Documents and Settings\ojo\Skrivebord\Kopi (2) av TekniskAnalyse\TekniskAnalyse\bin\Debug\TekniskAnalyse.pdb
+C:\Documents and Settings\ojo\Skrivebord\Kopi (2) av TekniskAnalyse\TekniskAnalyse\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ojo\Skrivebord\Kopi (2) av TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.Form1.resources
+C:\Documents and Settings\ojo\Skrivebord\Kopi (2) av TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.Properties.Resources.resources
+C:\Documents and Settings\ojo\Skrivebord\Kopi (2) av TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.csproj.GenerateResource.Cache
+C:\Documents and Settings\me\Skrivebord\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.exe
+C:\Documents and Settings\me\Skrivebord\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.pdb
+C:\Documents and Settings\me\Skrivebord\TekniskAnalyse\TekniskAnalyse\bin\Debug\TekniskAnalyse.exe
+C:\Documents and Settings\me\Skrivebord\TekniskAnalyse\TekniskAnalyse\bin\Debug\TekniskAnalyse.pdb
+C:\Documents and Settings\me\Skrivebord\TekniskAnalyse\TekniskAnalyse\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\me\Skrivebord\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.Form1.resources
+C:\Documents and Settings\me\Skrivebord\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.Properties.Resources.resources
+C:\Documents and Settings\me\Skrivebord\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.csproj.GenerateResource.Cache
+C:\Users\OJO\Desktop\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.exe
+C:\Users\OJO\Desktop\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.pdb
+C:\Users\OJO\Desktop\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.Form1.resources
+C:\Users\OJO\Desktop\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.Properties.Resources.resources
+C:\Users\OJO\Desktop\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.csproj.GenerateResource.Cache
+C:\Users\OJO\Desktop\TekniskAnalyse\TekniskAnalyse\bin\Debug\TekniskAnalyse.exe
+C:\Users\OJO\Desktop\TekniskAnalyse\TekniskAnalyse\bin\Debug\TekniskAnalyse.pdb
+C:\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.exe
+C:\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.pdb
+C:\TekniskAnalyse\TekniskAnalyse\bin\Debug\TekniskAnalyse.exe
+C:\TekniskAnalyse\TekniskAnalyse\bin\Debug\TekniskAnalyse.pdb
+C:\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.Form1.resources
+C:\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.Properties.Resources.resources
+C:\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.csproj.GenerateResource.Cache
+C:\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.csprojResolveAssemblyReference.cache
+C:\Users\ojo\Desktop\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.csprojResolveAssemblyReference.cache
+C:\Users\ojo\Desktop\TekniskAnalyse\TekniskAnalyse\obj\Debug\TekniskAnalyse.csproj.CoreCompileInputs.cache
+C:\Users\ojo\Desktop\TekniskAnalyseProgram\bin\Debug\TekniskAnalyse.exe
+C:\Users\ojo\Desktop\TekniskAnalyseProgram\bin\Debug\TekniskAnalyse.pdb
+C:\Users\ojo\Desktop\TekniskAnalyseProgram\obj\Debug\TekniskAnalyse.csprojResolveAssemblyReference.cache
+C:\Users\ojo\Desktop\TekniskAnalyseProgram\obj\Debug\TekniskAnalyse.Form1.resources
+C:\Users\ojo\Desktop\TekniskAnalyseProgram\obj\Debug\TekniskAnalyse.Properties.Resources.resources
+C:\Users\ojo\Desktop\TekniskAnalyseProgram\obj\Debug\TekniskAnalyse.csproj.GenerateResource.Cache
+C:\Users\ojo\Desktop\TekniskAnalyseProgram\obj\Debug\TekniskAnalyse.csproj.CoreCompileInputs.cache
+C:\Users\ojo\Desktop\TekniskAnalyseProgram\obj\Debug\TekniskAnalyse.exe
+C:\Users\ojo\Desktop\TekniskAnalyseProgram\obj\Debug\TekniskAnalyse.pdb
+C:\Users\ojo\Desktop\Backup Teknisk analyse\TekniskAnalyseProgram - kopi 5\obj\Debug\TekniskAnalyse.csprojResolveAssemblyReference.cache
+C:\Users\ojo\Desktop\Backup Teknisk analyse\TekniskAnalyseProgram - kopi 5\obj\Debug\TekniskAnalyse.Form1.resources
+C:\Users\ojo\Desktop\Backup Teknisk analyse\TekniskAnalyseProgram - kopi 5\obj\Debug\TekniskAnalyse.Properties.Resources.resources
+C:\Users\ojo\Desktop\Backup Teknisk analyse\TekniskAnalyseProgram - kopi 5\obj\Debug\TekniskAnalyse.csproj.GenerateResource.Cache
+C:\Users\ojo\Desktop\Backup Teknisk analyse\TekniskAnalyseProgram - kopi 5\obj\Debug\TekniskAnalyse.csproj.CoreCompileInputs.cache
+C:\Users\ojo\Desktop\Backup Teknisk analyse\TekniskAnalyseProgram - kopi 5\obj\Debug\TekniskAnalyse.exe
+C:\Users\ojo\Desktop\Backup Teknisk analyse\TekniskAnalyseProgram - kopi 5\obj\Debug\TekniskAnalyse.pdb
+C:\Users\ojo\Desktop\Backup Teknisk analyse\TekniskAnalyseProgram - kopi 5\bin\Debug\TekniskAnalyse.exe
+C:\Users\ojo\Desktop\Backup Teknisk analyse\TekniskAnalyseProgram - kopi 5\bin\Debug\TekniskAnalyse.pdb
+C:\Users\ojo\Desktop\TekniskAnalyseProgram - kopi\bin\Debug\TekniskAnalyse.exe.config
+C:\Users\ojo\Desktop\TekniskAnalyseProgram - kopi\bin\Debug\TekniskAnalyse.exe
+C:\Users\ojo\Desktop\TekniskAnalyseProgram - kopi\bin\Debug\TekniskAnalyse.pdb
+C:\Users\ojo\Desktop\TekniskAnalyseProgram - kopi\obj\Debug\TekniskAnalyse.csprojResolveAssemblyReference.cache
+C:\Users\ojo\Desktop\TekniskAnalyseProgram - kopi\obj\Debug\TekniskAnalyse.Form1.resources
+C:\Users\ojo\Desktop\TekniskAnalyseProgram - kopi\obj\Debug\TekniskAnalyse.Properties.Resources.resources
+C:\Users\ojo\Desktop\TekniskAnalyseProgram - kopi\obj\Debug\TekniskAnalyse.csproj.GenerateResource.Cache
+C:\Users\ojo\Desktop\TekniskAnalyseProgram - kopi\obj\Debug\TekniskAnalyse.csproj.CoreCompileInputs.cache
+C:\Users\ojo\Desktop\TekniskAnalyseProgram - kopi\obj\Debug\TekniskAnalyse.exe
+C:\Users\ojo\Desktop\TekniskAnalyseProgram - kopi\obj\Debug\TekniskAnalyse.pdb
